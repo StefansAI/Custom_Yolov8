@@ -1,0 +1,15 @@
+names:
+- Black Squirrel
+- Blue Jay
+- Crow
+- Gray Squirrel
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: test-j5k8f
+  url: https://universe.roboflow.com/first-test-n2hnz/test-j5k8f/dataset/4
+  version: 4
+  workspace: first-test-n2hnz
+test: test/images
+train: train/images
+val: valid/images
